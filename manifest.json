@@ -1,6 +1,6 @@
 {
-    "name": "calo_trek",
-    "short_name": "calo_trek",
+    "name": "calotrek_admin",
+    "short_name": "calotrek_admin",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
