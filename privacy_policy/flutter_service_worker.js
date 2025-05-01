@@ -3,11 +3,14 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "b24a4c585d8a97912f16866d6044042f",
-"assets/AssetManifest.bin.json": "79e6fa6f1b616f7b9995a33b706c4466",
-"assets/AssetManifest.json": "dedaf8151759b6e75215e73f51e8f186",
+const RESOURCES = {"assets/AssetManifest.bin": "3f2f323db9ed92e27b21aab6bcf40164",
+"assets/AssetManifest.bin.json": "def9418a815543bda8f103bf2de3569e",
+"assets/AssetManifest.json": "d6b44ca403ce909fc90928287201a7b9",
+"assets/assets/background_landscape.jpg": "953847e5bab3a18dc9b7cce3e37e6174",
+"assets/assets/calotrek_isolated.png": "2459f34417d102dd974e811e4d65369c",
 "assets/assets/calotrek_landscape.png": "084565ac65a0e0b0c008fe7360842bf5",
-"assets/assets/CaloTrek_Logo.jpg": "f0f5a5c8bb8e71d594b8e2c37b980de6",
+"assets/assets/calotrek_logo.jpg": "f0f5a5c8bb8e71d594b8e2c37b980de6",
+"assets/assets/calotrek_textisolated.png": "cca305dc7899f3e5cbfc578238a56754",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "0db35ae7a415370b89e807027510caf0",
 "assets/NOTICES": "7663f08989ce147fcba9ca5d22cdbbd8",
@@ -29,9 +32,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "b24a4c585d8a97912f16866d6044042f
 "icons/Icon-512.png": "d30a5b8621b39bbdbf3fa32ac70dbf65",
 "icons/Icon-maskable-192.png": "f131a16315571c1bfbfcab8ccd4bc156",
 "icons/Icon-maskable-512.png": "0678fb1813743c8adacfbe7a367ab3a4",
-"index.html": "09fa56de46b78c64168c688bd18abafb",
-"/": "09fa56de46b78c64168c688bd18abafb",
-"main.dart.js": "4333d2f929522bd0a09d690ece3ac6c4",
+"index.html": "24e39d493827014875d538b495f6ee5b",
+"/": "24e39d493827014875d538b495f6ee5b",
+"main.dart.js": "5610287aa06c602556e78625382ee9f6",
 "manifest.json": "066acea097cffdd8a3cf3fcca2d7e4a6",
 "version.json": "dc0abed03686959584c3c5488d28ace6"};
 // The application shell files that are downloaded before a service worker can
