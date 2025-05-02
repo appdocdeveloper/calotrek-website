@@ -36112,7 +36112,7 @@ $1(a){A.a1o().$1("FlutterError: "+A.h(a.a))
 A.aao(null,null,a.b)},
 $S:127}
 A.Bm.prototype={
-V(a){var s=null,r="assets/CaloTrek_Logo.jpg",q=A.a8c(s,B.fL,s),p=A.Px("assets/background_landscape.jpg",B.vx,s,s,s),o=$.ad().Ga(8,8,B.cR),n=t.nA,m=t.o2
+V(a){var s=null,r="assets/calotrek_logo.jpg",q=A.a8c(s,B.fL,s),p=A.Px("assets/background_landscape.jpg",B.vx,s,s,s),o=$.ad().Ga(8,8,B.cR),n=t.nA,m=t.o2
 return new A.qC(new A.rR(new A.Cy(A.p_(A.a([A.V7(A.CJ(B.eu,A.a([p,A.adw(A.a23(s,s,A.ax(0,0,0,0),s,s,s,s,s),o),A.xI(A.a7H(A.a([A.p_(A.a([A.xI(A.CJ(B.aX,A.a([A.a5n(A.KT(16),A.Px(r,B.vw,100,s,100)),A.a2Y(s,A.a23(s,B.Kt,s,new A.hg(B.CE,s,s,A.KT(12),B.AM,s,B.bW),s,s,B.yv,s),s,s,s,4,4,s)],n),B.hp),s,s),B.Dq],n),B.br,B.fJ),A.p_(A.a([A.xI(A.a5n(A.KT(16),A.Px("assets/calotrek_textisolated.png",B.vy,50,10,300)),s,s),B.G2,B.Ks],n),B.br,B.fJ)],n),B.br,B.fJ,B.fK),s,s)],n),B.Gb),300,s),B.ho,B.Kr,B.ho,new A.hI(B.jj,A.p_(A.a0(A.a0(new A.aa(B.zS,new A.SG(this),m),!0,m.h("ap.E")),!0,t.cl),B.d7,B.cs),s),A.p_(A.a([A.Px(r,s,60,s,60),B.G1,B.Ku,B.G3,B.Kv,B.ho],n),B.br,B.cs)],n),B.br,B.cs),s),s),"Privacy Policy - CaloTrek",q,!1,s)}}
 A.SG.prototype={
 $1(a){return new A.hI(B.yt,A.p_(A.a([A.a88(a.a,B.Ji),B.G4,A.a88(a.b,B.K3)],t.nA),B.d7,B.cs),null)},
