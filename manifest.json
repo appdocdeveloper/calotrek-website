@@ -1,11 +1,11 @@
 {
-    "name": "calotrek_webpage",
-    "short_name": "calotrek_webpage",
+    "name": "CaloTrek - Every Meal Counts",
+    "short_name": "CaloTrek",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "CaloTrek – Smart meal tracking made simple. Stay healthy and informed with every bite.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
